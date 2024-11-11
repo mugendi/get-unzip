@@ -1,0 +1,19 @@
+{
+  "name": "get-unzip",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Download and unzip a file/directory",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "tar": "^7.4.3",
+    "unzipper": "^0.12.3",
+    "zlib": "^1.0.5"
+  }
+}
